@@ -1,0 +1,24 @@
+{
+  "app": {
+    "title": "Bienvenido a la aplicación de prueba de Smartling",
+    "subtitle": "Un proyecto de ejemplo para validar el conector de GitHub"
+  },
+  "nav": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "contact": "Contacto",
+    "settings": "Configuración"
+  },
+  "buttons": {
+    "save": "Guardar cambios",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "confirm": "¿Estás seguro de que quieres continuar?"
+  },
+  "messages": {
+    "welcome": "¡Hola, {name}! Gracias por iniciar sesión.",
+    "itemCount": "Tienes {count} notificaciones nuevas.",
+    "empty": "Aún no hay nada aquí.",
+    "error": "Algo salió mal. Inténtalo de nuevo más tarde."
+  }
+}

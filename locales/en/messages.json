@@ -1,0 +1,24 @@
+{
+  "app": {
+    "title": "Welcome to the Smartling Test App",
+    "subtitle": "A sample project for validating the GitHub connector"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact",
+    "settings": "Settings"
+  },
+  "buttons": {
+    "save": "Save changes",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "confirm": "Are you sure you want to continue?"
+  },
+  "messages": {
+    "welcome": "Hello, {name}! Thanks for signing in.",
+    "itemCount": "You have {count} new notifications.",
+    "empty": "There's nothing here yet.",
+    "error": "Something went wrong. Please try again later."
+  }
+}

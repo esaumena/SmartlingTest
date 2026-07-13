@@ -1,0 +1,17 @@
+{
+  "hero": {
+    "headline": "Translate faster with continuous localization",
+    "cta": "Get started for free",
+    "tagline": "Push your source strings, get translations back automatically."
+  },
+  "features": {
+    "automation": "Automated file exchange between GitHub and Smartling",
+    "quality": "Built-in quality checks and translation memory",
+    "speed": "Ship localized content in hours, not weeks"
+  },
+  "footer": {
+    "copyright": "© 2026 Smartling Test, Inc. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}
