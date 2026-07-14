@@ -2,7 +2,7 @@
 # Docs: https://help.smartling.com/hc/en-us/articles/360000634173-GitHub-Connector
 
 # Project the source strings are uploaded to (set in the Smartling dashboard)
-projectId: "REPLACE_WITH_PROJECT_ID"
+projectId: "11fd312a1"
 
 # Branch the connector watches for source-string changes
 sourceBranch: main
