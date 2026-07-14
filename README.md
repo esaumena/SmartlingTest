@@ -20,8 +20,7 @@ locales/<locale>/...      Translated files the connector writes back
    with your Smartling project ID.
 2. **Trigger a source push** — edit any string under `locales/en/` and merge to
    `main`. With `pushOnMerge: true`, the connector uploads the changed files.
-3. **Request translations** for the target locales listed in the config
-   (`es`, `fr`, `de`, `ja`, `zh-CN`).
+3. **Request translations** for the target locale listed in the config (`es`).
 4. **Review the PR** — once translations complete, the connector opens a pull
    request on the `smartling/translations` branch adding
    `locales/<locale>/*.json` files.

@@ -1,0 +1,31 @@
+# Smartling GitHub Connector configuration
+# Docs: https://help.smartling.com/hc/en-us/articles/360000634173-GitHub-Connector
+
+# Project the source strings are uploaded to (set in the Smartling dashboard)
+projectId: "11fd312a1"
+
+# Branch the connector watches for source-string changes
+sourceBranch: main
+
+# Where the connector opens pull requests with completed translations
+translationsBranch: smartling/translations
+
+# Source (authored) locale
+sourceLocale: en
+
+# Target locales to request translations for
+targetLocales:
+  - es
+
+# Files to send for translation and where to write results back.
+# {locale} is replaced with each target locale's code.
+files:
+  - source: "locales/en/**/*.json"
+    translation: "locales/{locale}/**/*.json"
+    fileType: json
+
+# Only push source files for translation when they change on sourceBranch
+pushOnMerge: true
+
+# Open a PR (rather than committing directly) when translations are ready
+createPullRequest: true
