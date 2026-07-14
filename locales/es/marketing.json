@@ -1,0 +1,17 @@
+{
+  "hero": {
+    "headline": "Traduce más rápido con la localización continua",
+    "cta": "Comienza gratis",
+    "tagline": "Envía tus cadenas de origen y recibe las traducciones automáticamente."
+  },
+  "features": {
+    "automation": "Intercambio automático de archivos entre GitHub y Smartling",
+    "quality": "Controles de calidad integrados y memoria de traducción",
+    "speed": "Publica contenido localizado en horas, no en semanas"
+  },
+  "footer": {
+    "copyright": "© 2026 Smartling Test, Inc. Todos los derechos reservados.",
+    "privacy": "Política de privacidad",
+    "terms": "Términos del servicio"
+  }
+}
