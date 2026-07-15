@@ -13,12 +13,24 @@
     "save": "Save changes",
     "cancel": "Cancel",
     "delete": "Delete",
-    "confirm": "Are you sure you want to continue?"
+    "confirm": "Are you sure you want to continue?",
+    "logout": "Log out",
+    "retry": "Try again"
   },
   "messages": {
     "welcome": "Hello, {name}! Thanks for signing in.",
     "itemCount": "You have {count} new notifications.",
     "empty": "There's nothing here yet.",
-    "error": "Something went wrong. Please try again later."
+    "error": "Something went wrong. Please try again later.",
+    "saved": "Your changes have been saved.",
+    "sessionExpiring": "Your session expires in {minutes} minutes."
+  },
+  "account": {
+    "profile": "Profile",
+    "editProfile": "Edit profile",
+    "changePassword": "Change password",
+    "greeting": "Good to see you again, {name}.",
+    "lastLogin": "Last signed in on {date}.",
+    "deleteWarning": "Deleting your account is permanent and cannot be undone."
   }
 }
